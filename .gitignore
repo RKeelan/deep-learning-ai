@@ -1,0 +1,5 @@
+env
+__pycache__
+secrets
+so_database_app.csv
+question_embeddings_app.pkl

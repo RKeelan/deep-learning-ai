@@ -1,0 +1,6 @@
+google-cloud-aiplatform
+matplotlib
+mplcursors
+pandas
+python-dotenv
+scikit-learn
