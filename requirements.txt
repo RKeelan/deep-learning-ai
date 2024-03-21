@@ -3,4 +3,8 @@ matplotlib
 mplcursors
 pandas
 python-dotenv
+tensorflow
+seaborn
 scikit-learn
+sentence-transformers
+weaviate-client
